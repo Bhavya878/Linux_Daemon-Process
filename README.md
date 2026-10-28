@@ -265,8 +265,6 @@ These checks help demonstrate the daemon's process state and runtime activity.
 
 **Bhavya Palloli**
 
-GitHub: [bhavyapalloli2004-bit](https://github.com/bhavyapalloli2004-bit)
-
 **Project:** Linux Daemon Process
 
-**Technologies:** C Programming | Linux System Programming | Ubuntu | GCC | Git | GitHub
+Linux System Programming | C Programming |  Process Management | Signals | File Handling | Error Handling | Systemd
