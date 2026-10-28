@@ -1,5 +1,4 @@
-# Linux_Daemon-Process
-Linux system programming project in C focusing on process management and daemon processes.
+
 # Linux Daemon Process
 
 A Linux system programming project in C that demonstrates daemon creation, background execution, process management, and activity logging in Ubuntu Linux.
